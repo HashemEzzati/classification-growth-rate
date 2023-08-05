@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  <h1>Classification Growth Rate</h1>
+  <h1>API to Binance</h1>
   
   <p>In this part of the project, we use Node.js to get API to Binance and store OHLCV data in MongoDB. First, open the terminal in the desired directory, or use the cd command to navigate to the specified path, and then run the command npm init. The required libraries are mentioned in the dependencies section. To install them, use the command npm install library_name in the terminal. To execute the code, use the command node index.js. The OHLCV data will be stored in MongoDB.</p>
   
