@@ -1,0 +1,13 @@
+# experiment config
+
+phase: 'test' # this parameter should be set as train or test.
+save_model_path: './saved_model/CNN.h5'
+load_model_path: './saved_model/CNN.h5'
+
+train_start_time: '2023-01-01T00:00:00.000000'
+train_end_time: '2023-03-01T00:00:00.000000'
+train_file_name: 'BTCUSDT-1h_train'
+
+test_start_time: '2023-03-01T00:00:00.000000'
+test_end_time: '2023-06-01T00:00:00.000000'
+test_file_name: 'BTCUSDT-1h_test'

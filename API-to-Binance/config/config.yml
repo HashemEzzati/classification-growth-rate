@@ -1,0 +1,10 @@
+market_args:
+  symbol: 'BTCUSDT'
+  interval: '1h'
+  startTime: '2020-01-01T00:00:00Z'
+  endTime: '2023-06-01T00:00:00Z'
+  limit: 500
+
+mongo_args:
+  local: 'mongodb://127.0.0.1:27017'
+  data_base: '/timeseries_test'

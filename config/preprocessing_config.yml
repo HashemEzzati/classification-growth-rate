@@ -1,5 +1,0 @@
-window_size: 300
-data_path: './data/BTCUSDT-1h.csv'
-split_date: '2022-11-01 00:00:00'
-cluster_num: 5
-

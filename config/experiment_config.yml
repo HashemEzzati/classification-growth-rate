@@ -1,5 +1,0 @@
-# experiment config
-
-phase: 'test' # this parameter should be set as train or test.
-save_model_path: './saved_model/linear.h5'
-load_model_path: './saved_model/linear_300.h5'
